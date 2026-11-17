@@ -85,7 +85,6 @@ La exposición debe incluir:
 | README           | Integrantes con número de cuenta, descripción, instalación y ejecución |
 | Reproducibilidad | La demo corre con instrucciones documentadas                           |
 | Dependencias     | Versiones declaradas en `requirements.txt`                             |
-| Commits          | Historial con contribuciones de todos los integrantes                  |
 | Referencias      | Formato consistente (autor, título, año, enlace)                       |
 
 ---

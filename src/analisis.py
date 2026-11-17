@@ -5,7 +5,7 @@ from dijkstra import dijkstra
 from mapa_restaurante import ELEMENTOS, grafo, id_celda
 
 inicio = id_celda(*ELEMENTOS["ENTRADA"][0])
-meta = "MESA_04"
+meta = "MESA_01"
 
 
 def ejecutar(algoritmo):
