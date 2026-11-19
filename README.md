@@ -67,6 +67,19 @@ src/
 └── analisis2.py          # promedios sobre todas las metas
 ```
 
+## Demostración
+
+### Dijkstra
+
+https://github.com/user-attachments/assets/f5ca8a3d-a495-476c-b729-7db60643ff29
+
+https://github.com/user-attachments/assets/46703f48-39ac-4c29-bdc5-ea76e090cab0
+
+### A*
+
+https://github.com/user-attachments/assets/3e3372bd-b679-41e4-bc6d-9c9dbf83d786
+
+https://github.com/user-attachments/assets/3190b85c-1056-4b65-bdc3-d3b8dd4890ab
 ## Referencias
 
 Ver [`BIBLIOGRAFIA.md`](BIBLIOGRAFIA.md).
